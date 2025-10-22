@@ -3,6 +3,9 @@ Can you figure out what is in the eax register at the end of the main function? 
 Disassemble this.        
 
 ## Solution
+
+The method i wanted to solve with this was pretty straightforward.I knew that the file i had was a binary file and i just had to disassemble to to get the required answers.Hence i found upon objdump which was a helpful command to help disassemble a binary file.Hence on doing so,I used the 'less' command along with it so that i can make viewing easier.Since it said that the number next to the eas part in main was the answer,i scrolled through the details and finally under the main section i was able to procure the number which i then converted to decimal with the help of google.     
+        
 <img width="1177" height="29" alt="image" src="https://github.com/user-attachments/assets/d7b58058-f425-4261-9979-3ab44755d32c" />       
        
 <img width="970" height="899" alt="image" src="https://github.com/user-attachments/assets/7e0175c4-220d-4e09-8e7c-bb409bbc5423" />      
@@ -91,6 +94,9 @@ https://www.google.com/search?q=How+to+disassemblea+binary+file+in+linux&oq=How+
 This vault uses for-loops and byte arrays. The source code for this vault is here: VaultDoor3.java     
 
 ## Solution
+
+Here,when i downloaded the java file.I first tried to running it directly but to no avail as i did not have the vault passcode.Then when i read between the lines of code,i realised that there was a certain block of code which could give us the flag.Since i did not have much experience in java,i tried to recreate the same logic in python.When i wrote a new block of code in python for the same logic and run it with the same arguments,we successfully obscured the flag.   
+     
 <img width="686" height="780" alt="image" src="https://github.com/user-attachments/assets/9a47f985-dcc1-46f0-84b7-4235495da5bc" />      
 
 <img width="686" height="780" alt="image" src="https://github.com/user-attachments/assets/3320460c-0339-46f2-91ae-cf7c06e735c9" />      
