@@ -16,7 +16,8 @@ We receive a file which has random gibberish when catted out.But on top it said 
 ![WhatsApp Image 2025-10-24 at 9 01 19 PM](https://github.com/user-attachments/assets/e7e2ce83-142a-424f-bbd8-6f58d52ffee6)        
 
 
-<img width="1242" height="465" alt="Screenshot 2025-10-24 at 9 02 04 PM" src="https://github.com/user-attachments/assets/d4e19347-1946-4a07-9728-d5a2bbab9f2a" />     
+![WhatsApp Image 2025-10-24 at 9 02 35 PM](https://github.com/user-attachments/assets/6f2b2dfa-2100-4690-85e7-317fe71e8fe4)         
+    
         
 
 
